@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+  
+  <RadioButton
+        android:id="@+id/rD01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PHP"/>
+      <RadioButton
+        android:id="@+id/rD02"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mysql"/>
+  
+  <RadioGroup
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content">
+    
+      <RadioButton
+        android:id="@+id/rD03"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PHP"/>
+      <RadioButton
+        android:id="@+id/rD04"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mysql"/>
+
+  </RadioGroup>
+  
+</LinearLayout>
