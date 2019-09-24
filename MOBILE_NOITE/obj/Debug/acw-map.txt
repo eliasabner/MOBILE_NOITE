@@ -1,3 +1,7 @@
+MOBILE_NOITE.Atividade2_radioButton, MOBILE_NOITE;md5a76fe8e9f4c0f67d5c396a454e9f9175.Atividade2_radioButton
+MOBILE_NOITE.Atividade2_radioButton, MOBILE_NOITE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a76fe8e9f4c0f67d5c396a454e9f9175.Atividade2_radioButton
+MOBILE_NOITE.Atividade2_radioButton;md5a76fe8e9f4c0f67d5c396a454e9f9175.Atividade2_radioButton
+mobile_noite.Atividade2_radioButton;md5a76fe8e9f4c0f67d5c396a454e9f9175.Atividade2_radioButton
 MOBILE_NOITE.Activity1, MOBILE_NOITE;md5a76fe8e9f4c0f67d5c396a454e9f9175.Activity1
 MOBILE_NOITE.Activity1, MOBILE_NOITE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a76fe8e9f4c0f67d5c396a454e9f9175.Activity1
 MOBILE_NOITE.Activity1;md5a76fe8e9f4c0f67d5c396a454e9f9175.Activity1

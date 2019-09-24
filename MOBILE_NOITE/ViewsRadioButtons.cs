@@ -12,7 +12,7 @@ using Android.Widget;
 
 namespace MOBILE_NOITE
 {
-    [Activity(Label = "ViewsRadioButtons",MainLauncher = true)]
+    [Activity(Label = "ViewsRadioButtons",MainLauncher = false)]
     public class ViewsRadioButtons : Activity
     {
         RadioButton rdbPhp;
@@ -30,11 +30,11 @@ namespace MOBILE_NOITE
             // rdbPhp.Click += RdbPhp_Click;
             // rdbMysql.Click += RdbMysql_Click;
 
-            rdbPhp.Click += rdPhpMysql;
-            rdbMysql.Click += rdPhpMysql;
+            rdbPhp.Click += RdPhpMysql;
+            rdbMysql.Click += RdPhpMysql;
         }
 
-        private void rdPhpMysql(object sender, EventArgs e)
+        private void RdPhpMysql(object sender, EventArgs e)
         {
             if (rdbPhp.Checked == true)
             {
@@ -57,11 +57,12 @@ namespace MOBILE_NOITE
         }
 
         //rdpPhp
+
         private void RdbPhp_Click(object sender, EventArgs e)
         {
-           if (rdbPhp.Checked == true)
+            if (rdbPhp.Checked == true)
             {
-                Toast.MakeText(this,rdbPhp.Text,ToastLength.Short).Show();
+                Toast.MakeText(this, rdbPhp.Text, ToastLength.Short).Show();
             }
         }
     }

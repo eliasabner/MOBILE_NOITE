@@ -58,6 +58,8 @@ C:\Users\elias.absantos\Desktop\mobileNoite\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\
 C:\Users\elias.absantos\Desktop\mobileNoite\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\res\layout\wiewalertdialog.xml
 C:\Users\elias.absantos\Desktop\mobileNoite\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\res\layout\atividade_alertdialog.xml
 C:\Users\elias.absantos\Desktop\mobileNoite\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\res\layout\viewimageview.xml
+C:\Users\elias.absantos\Desktop\mobileNoite\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\res\layout\viewsradiobutton.xml
+C:\Users\elias.absantos\Desktop\mobileNoite\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\res\layout\atividade2_radiobutton.xml
 C:\Users\elias.absantos\Desktop\mobileNoite\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\res\layout\main.xml
 C:\Users\elias.absantos\Desktop\mobileNoite\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\res\values\strings.xml
 C:\Users\elias.absantos\Desktop\mobileNoite\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\res\drawable\projeto.png
@@ -99,7 +101,4 @@ C:\Users\elias.absantos\Desktop\mobileNoite\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\
 C:\Users\elias.absantos\Desktop\mobileNoite\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\android\assets\System.Runtime.Serialization.pdb
 C:\Users\elias.absantos\Desktop\mobileNoite\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
 C:\Users\elias.absantos\Desktop\mobileNoite\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\android\assets\System.Xml.pdb
-C:\Users\elias.absantos\Desktop\mobileNoite\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\res\layout\viewsradiobutton.xml
 C:\Users\elias.absantos\Desktop\mobileNoite\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\MOBILE_NOITE.csprojResolveAssemblyReference.cache
-C:\Users\elias.absantos\Desktop\mobileNoite\MOBILE_NOITE\MOBILE_NOITE\bin\Debug\MOBILE_NOITE.dll
-C:\Users\elias.absantos\Desktop\mobileNoite\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\linksrc\MOBILE_NOITE.dll.mdb
