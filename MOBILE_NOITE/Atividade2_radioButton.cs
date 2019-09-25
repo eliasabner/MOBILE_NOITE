@@ -30,11 +30,13 @@ namespace MOBILE_NOITE
             // Create your application here
             SetContentView(Resource.Layout.Atividade2_radioButton);
 
+            //referencia dos elementos
             rdbXamarin = FindViewById<RadioButton>(Resource.Id.rD01);
             rdbAndroid = FindViewById < RadioButton>(Resource.Id.rD02);
             rdbIOS = FindViewById<RadioButton>(Resource.Id.rD03);
             image01 = FindViewById<ImageView>(Resource.Id.img01);
 
+            
             rdbXamarin.Click += seleciona;
             rdbAndroid.Click += seleciona;
             rdbIOS.Click += seleciona;
@@ -45,10 +47,17 @@ namespace MOBILE_NOITE
             if(rdbXamarin.Checked == true)
             {
                 caminho = Resources.GetDrawable(Resource.Drawable.baseline_motorcycle_black_48dp);
-                image01 = 
+                image01.SetImageDrawable(caminho);
+            }
+            else if(rdbAndroid.Checked==true)
+            {
+                caminho = Resources.GetDrawable(Resource.Drawable.baseline_android_black_48dp);
+                image01.SetImageDrawable(caminho);
 
-
-                
+            }else if (rdbIOS.Checked== true)
+            {
+                caminho = Resources.GetDrawable(Resource.Drawable.baseline_face_black_48dp);
+                image01.SetImageDrawable(caminho);
             }
             
         }

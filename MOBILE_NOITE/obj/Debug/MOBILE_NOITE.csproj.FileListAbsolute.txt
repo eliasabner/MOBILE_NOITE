@@ -102,3 +102,5 @@ C:\Users\elias.absantos\Desktop\mobileNoite\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\
 C:\Users\elias.absantos\Desktop\mobileNoite\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
 C:\Users\elias.absantos\Desktop\mobileNoite\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\android\assets\System.Xml.pdb
 C:\Users\elias.absantos\Desktop\mobileNoite\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\MOBILE_NOITE.csprojResolveAssemblyReference.cache
+C:\Users\elias.absantos\Desktop\mobileNoite\MOBILE_NOITE\MOBILE_NOITE\bin\Debug\MOBILE_NOITE.dll
+C:\Users\elias.absantos\Desktop\mobileNoite\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\linksrc\MOBILE_NOITE.dll.mdb
