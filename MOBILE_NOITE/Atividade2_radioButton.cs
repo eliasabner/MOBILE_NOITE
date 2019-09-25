@@ -39,7 +39,12 @@ namespace MOBILE_NOITE
             
             rdbXamarin.Click += seleciona;
             rdbAndroid.Click += seleciona;
-            rdbIOS.Click += seleciona;
+
+            rdbIOS.Click += (senderArg, arg) => {
+                caminho = Resources.GetDrawable(Resource.Drawable.baseline_face_black_48dp);
+                image01.SetImageDrawable(caminho);
+
+            };
         }
 
         private void seleciona (object sender,EventArgs e)
@@ -54,10 +59,6 @@ namespace MOBILE_NOITE
                 caminho = Resources.GetDrawable(Resource.Drawable.baseline_android_black_48dp);
                 image01.SetImageDrawable(caminho);
 
-            }else if (rdbIOS.Checked== true)
-            {
-                caminho = Resources.GetDrawable(Resource.Drawable.baseline_face_black_48dp);
-                image01.SetImageDrawable(caminho);
             }
             
         }
