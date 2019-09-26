@@ -18,7 +18,7 @@ namespace MOBILE_NOITE
     {
         static string[] estado = new string[] {"Acre", "Alagoas","Amapa","Amazonas","Bahia","Ceara"};
         AutoCompleteTextView AutoC;
-        ArrayAdapter<string> adaptador;
+        static ArrayAdapter<string> adaptador;
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
@@ -26,7 +26,7 @@ namespace MOBILE_NOITE
             // Create your application here
             SetContentView(Resource.Layout.ViewAutoCompleteTextView);
 
-            AutoC = FindViewById<AutoCompleteTextView>(Resource.Id.AutoComplet);
+            AutoC = FindViewById<AutoCompleteTextView>(Resource.Id.estado);
             adaptador = new ArrayAdapter<string>(this,Android.Resource.Layout.SimpleListItem1,estado);
 
             AutoC.Adapter = adaptador;
