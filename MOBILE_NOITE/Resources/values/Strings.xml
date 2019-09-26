@@ -2,4 +2,7 @@
 <resources>
   <string name="app_name">MOBILE_NOITE</string>
   <string name="bt_Complete">View AutoComplete</string>
+  <string name="ms_estado">Digite o Estado</string>
+  <string name="estado">Estado</string>
+ 
 </resources>

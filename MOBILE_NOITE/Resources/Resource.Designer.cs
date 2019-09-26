@@ -78,38 +78,41 @@ namespace MOBILE_NOITE
 			// aapt resource value: 0x7f050004
 			public const int CampoNome = 2131034116;
 			
-			// aapt resource value: 0x7f05000e
-			public const int bt = 2131034126;
+			// aapt resource value: 0x7f05000f
+			public const int bt = 2131034127;
 			
-			// aapt resource value: 0x7f050010
-			public const int btAlert = 2131034128;
+			// aapt resource value: 0x7f050011
+			public const int btAlert = 2131034129;
 			
-			// aapt resource value: 0x7f050012
-			public const int btAlertOkNo = 2131034130;
+			// aapt resource value: 0x7f050013
+			public const int btAlertOkNo = 2131034131;
 			
 			// aapt resource value: 0x7f050005
 			public const int btPermissao = 2131034117;
 			
-			// aapt resource value: 0x7f050011
-			public const int btToast = 2131034129;
+			// aapt resource value: 0x7f050012
+			public const int btToast = 2131034130;
 			
-			// aapt resource value: 0x7f05000d
-			public const int campoNome = 2131034125;
+			// aapt resource value: 0x7f05000e
+			public const int campoNome = 2131034126;
+			
+			// aapt resource value: 0x7f050008
+			public const int estado = 2131034120;
 			
 			// aapt resource value: 0x7f050000
 			public const int img01 = 2131034112;
 			
+			// aapt resource value: 0x7f05000b
+			public const int imgIos = 2131034123;
+			
 			// aapt resource value: 0x7f05000a
-			public const int imgIos = 2131034122;
+			public const int imgXamarim = 2131034122;
 			
 			// aapt resource value: 0x7f050009
-			public const int imgXamarim = 2131034121;
+			public const int imgv = 2131034121;
 			
-			// aapt resource value: 0x7f050008
-			public const int imgv = 2131034120;
-			
-			// aapt resource value: 0x7f05000f
-			public const int mostra = 2131034127;
+			// aapt resource value: 0x7f050010
+			public const int mostra = 2131034128;
 			
 			// aapt resource value: 0x7f050006
 			public const int mostraPerm = 2131034118;
@@ -123,11 +126,11 @@ namespace MOBILE_NOITE
 			// aapt resource value: 0x7f050003
 			public const int rD03 = 2131034115;
 			
-			// aapt resource value: 0x7f05000c
-			public const int rD04 = 2131034124;
+			// aapt resource value: 0x7f05000d
+			public const int rD04 = 2131034125;
 			
-			// aapt resource value: 0x7f05000b
-			public const int xamarim = 2131034123;
+			// aapt resource value: 0x7f05000c
+			public const int xamarim = 2131034124;
 			
 			static Id()
 			{
@@ -187,6 +190,12 @@ namespace MOBILE_NOITE
 			
 			// aapt resource value: 0x7f040001
 			public const int bt_Complete = 2130968577;
+			
+			// aapt resource value: 0x7f040003
+			public const int estado = 2130968579;
+			
+			// aapt resource value: 0x7f040002
+			public const int ms_estado = 2130968578;
 			
 			static String()
 			{
