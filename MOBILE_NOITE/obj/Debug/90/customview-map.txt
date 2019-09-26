@@ -11,6 +11,7 @@ ImageView;obj\Debug\90\res\layout\viewimageview.xml
 LinearLayout;obj\Debug\90\res\layout\atividade_alertdialog.xml
 LinearLayout;obj\Debug\90\res\layout\atividade2_radiobutton.xml
 LinearLayout;obj\Debug\90\res\layout\aulas.xml
+LinearLayout;obj\Debug\90\res\layout\c.xml
 LinearLayout;obj\Debug\90\res\layout\main.xml
 LinearLayout;obj\Debug\90\res\layout\viewautocompletetextview.xml
 LinearLayout;obj\Debug\90\res\layout\viewimageview.xml
@@ -18,8 +19,10 @@ LinearLayout;obj\Debug\90\res\layout\viewsradiobutton.xml
 LinearLayout;obj\Debug\90\res\layout\widgetaula01.xml
 LinearLayout;obj\Debug\90\res\layout\wiewalertdialog.xml
 RadioButton;obj\Debug\90\res\layout\atividade2_radiobutton.xml
+RadioButton;obj\Debug\90\res\layout\c.xml
 RadioButton;obj\Debug\90\res\layout\viewsradiobutton.xml
 RadioGroup;obj\Debug\90\res\layout\atividade2_radiobutton.xml
+RadioGroup;obj\Debug\90\res\layout\c.xml
 RadioGroup;obj\Debug\90\res\layout\viewsradiobutton.xml
 resources;obj\Debug\90\res\values\strings.xml
 string;obj\Debug\90\res\values\strings.xml

@@ -82,7 +82,7 @@
     <AndroidResource Include="Resources\layout\ViewImageView.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
-    <AndroidResource Include="Resources\layout\ViewsRadioButton.axml">
+    <AndroidResource Include="Resources\layout\c.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
     <AndroidResource Include="Resources\layout\Atividade2_radioButton.axml">
