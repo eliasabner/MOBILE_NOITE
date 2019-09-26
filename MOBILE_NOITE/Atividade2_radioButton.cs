@@ -13,7 +13,7 @@ using Android.Widget;
 
 namespace MOBILE_NOITE
 {
-    [Activity(Label = "Atividade2_radioButton",MainLauncher = true)]
+    [Activity(Label = "Atividade2_radioButton",MainLauncher = false)]
     public class Atividade2_radioButton : Activity
     {
         RadioButton rdbXamarin;

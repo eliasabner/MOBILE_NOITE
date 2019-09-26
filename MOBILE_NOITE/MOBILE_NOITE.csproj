@@ -55,6 +55,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Atividade2_radioButton.cs" />
+    <Compile Include="Aulas.cs" />
+    <Compile Include="ViewAutoCompleteTextView.cs" />
     <Compile Include="ViewImageView.cs" />
     <Compile Include="Atividade_AlertDialog.cs" />
     <Compile Include="MainActivity.cs" />
@@ -85,6 +87,12 @@
       <SubType>Designer</SubType>
     </AndroidResource>
     <AndroidResource Include="Resources\layout\Atividade2_radioButton.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\ViewAutoCompleteTextView.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\Aulas.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>
