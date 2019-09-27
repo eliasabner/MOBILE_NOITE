@@ -23,10 +23,17 @@ namespace MOBILE_NOITE
             SetContentView(Resource.Layout.Aulas);
 
             var btComplete = FindViewById<Button>(Resource.Id.AutoComplet);
+            var btAtividadeAlertaDialog = FindViewById<Button>(Resource.Id.Atividade_AlertDialog);
 
-            btComplete.Click += (sende,args) => {
+            btComplete.Click += (sende,args) => 
+            {
                 // fazr um link (Chamar tela)
                 StartActivity(typeof(ViewAutoCompleteTextView));
+               
+            };
+            btAtividadeAlertaDialog.Click += (sender, args) =>
+            {
+                StartActivity(typeof(Atividade_AlertDialog));
             };
         }
     }

@@ -1,0 +1,15 @@
+C:\Users\Elias Abner  Dell\Source\Repos\eliasabner\Mobile_Noite\MOBILE_NOITE\obj\Debug\90\android\assets\MOBILE_NOITE.dll
+C:\Users\Elias Abner  Dell\Source\Repos\eliasabner\Mobile_Noite\MOBILE_NOITE\obj\Debug\90\android\assets\Java.Interop.dll
+C:\Users\Elias Abner  Dell\Source\Repos\eliasabner\Mobile_Noite\MOBILE_NOITE\obj\Debug\90\android\assets\Mono.Android.dll
+C:\Users\Elias Abner  Dell\Source\Repos\eliasabner\Mobile_Noite\MOBILE_NOITE\obj\Debug\90\android\assets\mscorlib.dll
+C:\Users\Elias Abner  Dell\Source\Repos\eliasabner\Mobile_Noite\MOBILE_NOITE\obj\Debug\90\android\assets\System.Core.dll
+C:\Users\Elias Abner  Dell\Source\Repos\eliasabner\Mobile_Noite\MOBILE_NOITE\obj\Debug\90\android\assets\System.dll
+C:\Users\Elias Abner  Dell\Source\Repos\eliasabner\Mobile_Noite\MOBILE_NOITE\obj\Debug\90\android\assets\System.Runtime.dll
+C:\Users\Elias Abner  Dell\Source\Repos\eliasabner\Mobile_Noite\MOBILE_NOITE\obj\Debug\90\android\assets\System.Xml.dll
+C:\Users\Elias Abner  Dell\Source\Repos\eliasabner\Mobile_Noite\MOBILE_NOITE\obj\Debug\90\android\assets\System.Net.Http.dll
+C:\Users\Elias Abner  Dell\Source\Repos\eliasabner\Mobile_Noite\MOBILE_NOITE\obj\Debug\90\android\assets\System.Drawing.Common.dll
+C:\Users\Elias Abner  Dell\Source\Repos\eliasabner\Mobile_Noite\MOBILE_NOITE\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+C:\Users\Elias Abner  Dell\Source\Repos\eliasabner\Mobile_Noite\MOBILE_NOITE\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+C:\Users\Elias Abner  Dell\Source\Repos\eliasabner\Mobile_Noite\MOBILE_NOITE\obj\Debug\90\android\assets\Mono.Security.dll
+C:\Users\Elias Abner  Dell\Source\Repos\eliasabner\Mobile_Noite\MOBILE_NOITE\obj\Debug\90\android\assets\System.Numerics.dll
+C:\Users\Elias Abner  Dell\Source\Repos\eliasabner\Mobile_Noite\MOBILE_NOITE\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
