@@ -30,6 +30,15 @@ namespace MOBILE_NOITE
             adaptador = new ArrayAdapter<string>(this,Android.Resource.Layout.SimpleListItem1,estado);
 
             AutoC.Adapter = adaptador;
+
+            //Evento AutoCompleteView
+
+            AutoC.ItemSelected += AutoC_ItemSelected;
+        }
+
+        private void AutoC_ItemSelected(object sender, AdapterView.ItemSelectedEventArgs e)
+        {
+            
         }
     }
 }
